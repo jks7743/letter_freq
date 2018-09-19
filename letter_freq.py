@@ -1,5 +1,5 @@
 """
-Simple letter frequency script used for analyzing shift ciphers
+Simple letter frequency script used for analyzing shift and swap ciphers
 """
 
 __author__ = "Joshua Schenk"
